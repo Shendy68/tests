@@ -5,4 +5,4 @@ assert capitalize('') == ''
 assert capitalize('hello') == 'Hello'
 
 
-print('All tests sucesfully complite!')
+print('All tests sucesfully complete!')
